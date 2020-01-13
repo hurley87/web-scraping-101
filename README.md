@@ -4,25 +4,25 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
 Create a virtual environment called github
 ``` 
-$ mkvirtualenv github
+mkvirtualenv github
 ```
 
 Install jupyter notebook in our virtual environment using pip.
 ``` 
-$ pip install jupyter
+pip install jupyter
 ```
 
 Selenium is a free (open source) tool we will use to automate a web browser.
 ``` 
-$ pip install selenium
+pip install selenium
 ```
 
 Chrome driver will let us automate the Chrome browser. This is something we will use with selenium. 
 ``` 
-$ brew cask install chromedriver
+brew cask install chromedriver
 ```
 
 Run our jupyter notebook and go through each step outlined in the video
 ``` 
-$ jupyter notebook
+jupyter notebook
 ```
