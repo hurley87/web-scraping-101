@@ -4,7 +4,7 @@ The Jupyter Notebook is an open-source web application that allows you to create
 
 Create a virtual environment called github
 ``` 
-mkvirtualenv github
+mkvirtualenv web-scraping
 ```
 
 Install jupyter notebook in our virtual environment using pip.
